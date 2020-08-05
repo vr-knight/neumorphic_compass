@@ -1,6 +1,11 @@
 # neumorphic_compass
 
-A new Flutter application.
+Neumorphic Compass made using Flutter.
+
+
+![](compassdark.jpg)
+![](compasslight.jpg)
+
 
 ## Getting Started
 
